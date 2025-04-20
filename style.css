@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 1000px;
+    height: fit-content;
     background: rgb(2,0,37);
     background: linear-gradient(180deg, rgba(2,0,37,1) 51%, rgba(0,3,70,1) 98%);
     font-family: 'Poppins';
